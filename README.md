@@ -2,7 +2,7 @@
 
 疯狂Java讲义
 
-## pandoc
+## [pandoc](https://github.com/jgm/pandoc)
 
 ~~~
 pandoc README.md -o README.docx
